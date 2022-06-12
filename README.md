@@ -2,11 +2,17 @@
 
 # Algorithm
 1.Import libraries required.
+
 2.Load dataset through local or drive link.
+
 3.Train the datasets.
+
 4.Train the model with neural networks.
+
 5.Compile the code.
+
 6.Fit the model and check accuracy.
+
 7.Evaluate performance on test dataset.
 
 ## Program:
